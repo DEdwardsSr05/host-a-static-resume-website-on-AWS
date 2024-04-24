@@ -1,4 +1,4 @@
-![ALT text](/Host_a_Static_Website_on_AWS.png)
+![ALT text](/Mole-task-1.drawio.png)
 
 # Hosting a Static Website on AWS
 
